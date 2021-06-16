@@ -11,5 +11,4 @@ public class ConsumerController {
     public String consumerMessage() {
         return "consumerMessage success";
     }
-
 }
